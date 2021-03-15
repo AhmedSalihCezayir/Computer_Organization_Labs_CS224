@@ -8,7 +8,7 @@ This repository contains my answers for Bilkent University's CS224 Computer Orga
   
 - `Lab 2`: Implementation of subprograms, usage of stack in subprograms, dynamic storage allocation, bit manipulation
 
-- `Lab 3`: Von Neumann's stored program concept, fundamentals of dynamic data structure construction and implementation of recursion in assembly language.
+- `Lab 3`: Von Neumann's stored program concept, implementation of linked lists and recursion in assembly language.
 
  
  
