@@ -1,6 +1,6 @@
 # Bilkent University CS 224 Labs
 
-This repository contains my answers for Bilkent University's CS224 Computer Organization (Spring-2021 & Fall-2021) lab assignments. This course aims to teach the basics of MIPS assembly language and different processor impelentations.
+This repository contains my answers for Bilkent University's CS224 Computer Organization (Spring-2021 & Fall-2021) lab assignments.
 
 ## Lab Assignments
 
