@@ -1,2 +1,14 @@
-# Computer_Organization_Labs
-My solutions for Bilkent University CS224 Computer Organization Labs(Spring 2021). Includes MIPS assembly programing assignments in addition to SystemVerilog implementations of various processor designs.
+# Bilkent University CS 224 Labs
+
+This repository contains my answers for Bilkent University's CS224 Computer Organization (Spring-2021 & Fall-2021) lab assignments. This course aims to teach the basics of MIPS assembly language and different processor impelentations.
+
+## Lab Assignments
+
+- `Lab 1`: Simple array processing using MIPS, using multiplication and division and HI and LO registers
+  
+- `Lab 2`: Implementation of subprograms, usage of stack in subprograms, dynamic storage allocation, bit manipulation
+
+- `Lab 3`: Von Neumann's stored program concept, fundamentals of dynamic data structure construction and implementation of recursion in assembly language.
+
+ 
+ 
